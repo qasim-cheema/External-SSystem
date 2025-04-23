@@ -1,0 +1,65 @@
+[
+  {
+    "id": "673d",
+    "addressLine1": "123 Main Street",
+    "addressLine2": "Suite 100",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "zipCode": "10001",
+    "active": true,
+    "createdOn": "2025-03-17T07:33:10.793Z",
+    "updatedDate": "2025-03-17T07:33:11.037Z",
+    "companyId": "2"
+  },
+  {
+    "addressLine1": "Liberty gate plaza 2nd flour MM ALAM Road Lahore",
+    "addressLine2": "",
+    "city": "LAHORE",
+    "state": "Punjab",
+    "country": "Pakistan",
+    "zipCode": "54000",
+    "active": true,
+    "id": "26ae",
+    "createdOn": "2025-04-22T10:54:04.142050Z",
+    "updatedDate": "2025-04-22T10:54:04.142050Z",
+    "companyId": "2"
+  },
+  {
+    "addressLine1": "1600 Washington Avenue",
+    "addressLine2": "",
+    "city": "Conway",
+    "state": "Arkansas",
+    "country": "USA",
+    "zipCode": "72032",
+    "active": true,
+    "id": "28cc",
+    "createdOn": "2025-04-22T11:01:07.323820Z",
+    "updatedDate": "2025-04-22T11:01:07.323820Z",
+    "companyId": "2"
+  },
+  {
+    "addressLine1": "12130 Millennium Drive",
+    "addressLine2": "3300",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "USA",
+    "zipCode": "90094",
+    "active": true,
+    "id": "0001",
+    "createdOn": "2025-04-22T11:15:02.414772Z",
+    "updatedDate": "2025-04-22T11:15:02.414772Z"
+  },
+  {
+    "addressLine1": "123 Main Street",
+    "addressLine2": "Suite 100",
+    "streetAddress": "123 Main St",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "USA",
+    "postalCode": "12345",
+    "id": "0002",
+    "createdOn": "2025-04-22T17:48:47.318305Z",
+    "updatedDate": "2025-04-22T17:48:47.318305Z"
+  }
+]
